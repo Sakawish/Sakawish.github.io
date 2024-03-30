@@ -3,6 +3,7 @@ site_name: Sakawish
 theme:
   name: material
   features:
+    - navigation.indexes
     - navigation.tabs
   palette:
     primary: white
@@ -10,6 +11,19 @@ theme:
     text: Josefin Sans
 
 nav:
-  - Home: index.md
-  - 椒盐笔记: salt-note.md
-  - SaltUI: salt-ui.md
+  - Sakawish: index.md
+  - 软件:
+    - apps/index.md
+    - Salt Player（椒盐音乐）: apps/salt-player.md
+    - 椒盐笔记: apps/salt-note.md
+  - 开源:
+    - open-source/index.md
+  - 文学:
+    - literature/index.md
+    - 陈书:
+      - 后主: literature/陈书/后主.md
+
+extra:
+  generator: false
+
+copyright: Copyright &copy; 2020 - 2024 Sakawish
