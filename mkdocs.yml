@@ -1,4 +1,15 @@
-site_name: My Docs
+site_name: Sakawish
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+  palette:
+    primary: white
+  font:
+    text: Josefin Sans
+
+nav:
+  - Home: index.md
+  - 椒盐笔记: salt-note.md
+  - SaltUI: salt-ui.md
