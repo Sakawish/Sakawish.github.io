@@ -18,6 +18,7 @@ nav:
     - 椒盐笔记: apps/salt-note.md
   - 开源:
     - open-source/index.md
+    - SaltUI: open-source/salt-ui.md
   - 文学:
     - literature/index.md
     - 陈书:
