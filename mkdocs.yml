@@ -10,6 +10,15 @@ theme:
   font:
     text: Josefin Sans
 
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 nav:
   - Sakawish: index.md
   - 软件:
@@ -18,7 +27,10 @@ nav:
     - 椒盐笔记: apps/salt-note.md
   - 开源:
     - open-source/index.md
-    - SaltUI: open-source/salt-ui.md
+    - SaltUI: 
+      - open-source/salt-ui/index.md
+      - 设计: open-source/salt-ui/design.md
+      - 文档: open-source/salt-ui/doc.md
   - 文学:
     - literature/index.md
     - 陈书:

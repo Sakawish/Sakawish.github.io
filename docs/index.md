@@ -4,7 +4,7 @@
 
 ## 个人介绍
 
-Foyou、Dso Music、Salt Player（椒盐音乐）、椒盐笔记、青盐云听、Hearusy Spectrum、椒盐视频、MoriaflyAudioHub 等软件作者。
+Foyou、Dso Music、Salt Player（椒盐音乐）、椒盐笔记、青盐云听、Hearusy Spectrum、椒盐视频、MoriaflyAudioHub、心事卷轴等软件作者。
 
 ## 本站介绍
 
