@@ -20,7 +20,9 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Sakawish: index.md
+  - Sakawish: 
+    - index.md
+    - 特别致谢: sakawish/thanks.md
   - 软件:
     - apps/index.md
     - Salt Player（椒盐音乐）: apps/salt-player.md
@@ -31,10 +33,14 @@ nav:
       - open-source/salt-ui/index.md
       - 设计: open-source/salt-ui/design.md
       - 文档: open-source/salt-ui/doc.md
+  - 音频:
+    - audio/index.md
+    - DSD: audio/DSD.md
   - 文学:
     - literature/index.md
     - 陈书:
       - 后主: literature/陈书/后主.md
+    - 江南春赋: literature/江南春赋.md
 
 extra:
   generator: false
