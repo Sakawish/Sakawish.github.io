@@ -35,6 +35,7 @@ nav:
       - 文档: open-source/salt-ui/doc.md
   - 音频:
     - audio/index.md
+    - audio/play-device.md
     - DSD: audio/DSD.md
   - 文学:
     - literature/index.md
