@@ -1,7 +1,15 @@
 # Salt Player（椒盐音乐）
 
+## 下载
+
+
+
 ## 使用问题解答
 
-### 使用 AAudio 输出模式，音频焦点失效？
+**Q：使用 AAudio 输出模式，音频焦点失效？**
 
-部分设备使用 AAudio 输出模式，软件存在无法响应音频焦点的问题，此可能于系统相关，更多反馈请访问 [issues/792](https://github.com/Moriafly/SaltPlayerSource/issues/792) 。
+A：部分设备使用 AAudio 输出模式，软件存在无法响应音频焦点的问题，此可能与系统相关，更多反馈请访问 [issues/792](https://github.com/Moriafly/SaltPlayerSource/issues/792) 。
+
+**Q：椒盐音乐的音质会比其他软件更好或者更差吗？**
+
+A：当排除软件自身压低音质或添加音效处理的情况下软件输出后，若两个后续被系统处理和硬件行为一致，那么不存在任何音质差别。

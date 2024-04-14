@@ -4,18 +4,6 @@
 
 - [特别致谢](sakawish/thanks.md)。
 
-## 个人介绍
-
-Foyou、Dso Music、Salt Player（椒盐音乐）、椒盐笔记、青盐云听、Hearusy Spectrum、椒盐视频、MoriaflyAudioHub、心事卷轴等软件作者。
-
-## 本站介绍
-
-在本网站可以看到：
-
-- [软件](apps/index.md) 某些开发的的软介绍、文档、下载；
-- [开源](open-source/index.md) 某些开发的开源库介绍、文档；
-- [文学](literature/index.md) 自己偶尔看看古文等。
-
 ## 相关社区
 
 - [不要糖醋放椒盐 QQ 频道](https://pd.qq.com/s/9ev310) 与千万人遇见。
