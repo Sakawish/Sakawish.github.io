@@ -28,6 +28,8 @@ theme:
   font:
     text: Josefin Sans
   language: zh
+  logo: res/drawable/ic_sakawish.png
+  favicon: res/drawable/ic_sakawish.png
 
 extra_css:
   - stylesheets/extra.css
@@ -48,9 +50,12 @@ nav:
   - 首页: 
     - index.md
     - 特别致谢: sakawish/thanks.md
+    - 了解作者: sakawish/sakawish.md
   - 软件:
     - apps/index.md
-    - Salt Player（椒盐音乐）: apps/salt-player.md
+    - Salt Player（椒盐音乐）:
+      - apps/salt-player/index.md
+      - 相关系统适配问题: apps/salt-player/adaptation.md
     - 椒盐笔记: apps/salt-note.md
   - 开源:
     - open-source/index.md

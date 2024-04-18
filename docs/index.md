@@ -1,23 +1,22 @@
-#
+# Sakawish
 
-<div>
-    <p style="text-align: center;"><i>谁谓高人无迹没，至今名画落瑶天。</i></p>
-</div>
+## 社区
 
-## 相关社区
+[不要糖醋放椒盐 QQ 频道 - 与千万人遇见](https://pd.qq.com/s/9ev310)
 
-- [不要糖醋放椒盐 QQ 频道](https://pd.qq.com/s/9ev310) 与千万人遇见。
+## 媒体
 
-## 媒体账号
+酷安：ForeverBest
 
-- 酷安：ForeverBest；
-- 微博：[Sakawish](https://weibo.com/u/7886040991)。
+微博：[Sakawish](https://weibo.com/u/7886040991)
 
-## 相关链接
+## 链接
 
-- [Moriafly 网站](https://moriafly.com)；
-- [椒盐音乐官方网站（旧）](https://moriafly.xyz/HiMoriafly) Hi Moriafly；
-- [MAX Audio](https://moriafly.xyz/HiMoriafly/docs/max-audio) 音频研究。
+[Moriafly 网站](https://moriafly.com)
+
+[椒盐音乐官方网站（旧）Hi Moriafly](https://moriafly.xyz/HiMoriafly) 
+
+[MAX Audio - 音频研究](https://moriafly.xyz/HiMoriafly/docs/max-audio) 
 
 ## 关于本站
 

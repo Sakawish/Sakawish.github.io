@@ -1,6 +1,7 @@
 [data-md-color-scheme="sakawish"] {
   --md-primary-fg-color: #f5f5f5;
   --md-primary-bg-color: #333;
+  --md-primary-bg-color--light: #333;
 
   --md-hue: 225deg;
   --md-default-fg-color: #000000de;
@@ -54,6 +55,7 @@
 [data-md-color-scheme="sakawish-dark"] {
   --md-primary-fg-color: #222;
   --md-primary-bg-color: #fff;
+  --md-primary-bg-color--light: #fff;
 
   --md-hue: 225deg;
   --md-default-fg-color: #fefefe;
