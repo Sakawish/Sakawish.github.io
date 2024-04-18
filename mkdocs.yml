@@ -6,9 +6,31 @@ theme:
     - navigation.indexes
     - navigation.tabs
   palette:
-    primary: white
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 当前为跟随系统，点击切换为浅色模式
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: sakawish
+      toggle:
+        icon: material/brightness-7
+        name: 当前为浅色模式，点击切换为深色模式
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: sakawish-dark
+      toggle:
+        icon: material/brightness-4
+        name: 当前为深色模式，点击切换为跟随系统
   font:
     text: Josefin Sans
+  language: zh
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -19,8 +41,11 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
+plugins:
+  - search
+
 nav:
-  - Sakawish: 
+  - 首页: 
     - index.md
     - 特别致谢: sakawish/thanks.md
   - 软件:
@@ -29,10 +54,11 @@ nav:
     - 椒盐笔记: apps/salt-note.md
   - 开源:
     - open-source/index.md
-    - SaltUI: 
+    - SaltUI:
       - open-source/salt-ui/index.md
       - 设计: open-source/salt-ui/design.md
       - 文档: open-source/salt-ui/doc.md
+      - Util: open-source/salt-ui/util.md
   - 音频:
     - audio/index.md
     - audio/play-device.md
@@ -48,4 +74,4 @@ nav:
 extra:
   generator: false
 
-copyright: Copyright &copy; 2020 - 2024 Sakawish
+copyright: Copyright &copy; 2020 - 2024 Sakawish 保留所有权利。本站内容未经允许不得转载。

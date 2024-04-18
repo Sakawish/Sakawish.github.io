@@ -1,8 +1,8 @@
-# Sakawish
+#
 
-谁谓高人无迹没，至今名画落瑶天。
-
-- [特别致谢](sakawish/thanks.md)。
+<div>
+    <p style="text-align: center;"><i>谁谓高人无迹没，至今名画落瑶天。</i></p>
+</div>
 
 ## 相关社区
 
