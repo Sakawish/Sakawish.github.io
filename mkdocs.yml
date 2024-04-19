@@ -42,6 +42,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
 
 plugins:
   - search
@@ -57,6 +60,8 @@ nav:
       - apps/salt-player/index.md
       - 相关系统适配问题: apps/salt-player/adaptation.md
     - 椒盐笔记: apps/salt-note.md
+    - 心事卷轴:
+      - apps/emo-scroll/index.md
   - 开源:
     - open-source/index.md
     - SaltUI:

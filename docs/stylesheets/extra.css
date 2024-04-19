@@ -116,3 +116,18 @@
     background-color: #ffffff1f
   }
 }
+
+.md-typeset .md-button--primary {
+  background-color: var(--md-code-hl-color);
+  border-color: var(--md-default-bg-color);
+  color: var(--md-default-bg-color);
+  border-radius: 12px
+}
+
+.grid.cards img {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
