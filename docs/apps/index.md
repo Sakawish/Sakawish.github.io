@@ -14,6 +14,14 @@
     
     [相关系统适配问题](salt-player/adaptation.md)
 
+-   __Salt Player for Windows__
+
+    ---
+
+    代号 Voxzen
+
+    [介绍](spw/index.md)
+
 -   __心事卷轴__
 
     ---

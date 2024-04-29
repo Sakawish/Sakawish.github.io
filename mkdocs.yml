@@ -6,25 +6,26 @@ theme:
     - navigation.indexes
     - navigation.tabs
   palette:
+    scheme: sakawish
     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: 当前为跟随系统，点击切换为浅色模式
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/brightness-auto
+    #     name: 当前为跟随系统，点击切换为浅色模式
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: sakawish
-      toggle:
-        icon: material/brightness-7
-        name: 当前为浅色模式，点击切换为深色模式
+    # # Palette toggle for light mode
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: sakawish
+    #   toggle:
+    #     icon: material/brightness-7
+    #     name: 当前为浅色模式，点击切换为深色模式
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: sakawish-dark
-      toggle:
-        icon: material/brightness-4
-        name: 当前为深色模式，点击切换为跟随系统
+    # # Palette toggle for dark mode
+    # - media: "(prefers-color-scheme: dark)"
+    #   scheme: sakawish-dark
+    #   toggle:
+    #     icon: material/brightness-4
+    #     name: 当前为深色模式，点击切换为跟随系统
   font:
     text: Josefin Sans
   language: zh
@@ -59,6 +60,8 @@ nav:
     - Salt Player（椒盐音乐）:
       - apps/salt-player/index.md
       - 相关系统适配问题: apps/salt-player/adaptation.md
+    - Salt Player for Windows:
+      - apps/spw/index.md
     - 椒盐笔记: apps/salt-note.md
     - 心事卷轴:
       - apps/emo-scroll/index.md

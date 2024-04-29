@@ -56,6 +56,14 @@
 
     [立刻加入](https://pd.qq.com/s/9ev310)
 
+-   <img src="https://img.icons8.com/fluency/48/telegram-app.png"/> __椒盐音乐 Salt Player & 开发者动态 Telegram 频道__
+    
+    ---
+
+    关注动态
+
+    [立刻加入](https://t.me/saltplayerupdate)
+
 </div>
 
 ## 媒体
