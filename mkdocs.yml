@@ -62,6 +62,7 @@ nav:
       - 相关系统适配问题: apps/salt-player/adaptation.md
     - Salt Player for Windows:
       - apps/spw/index.md
+      - apps/spw/audio-engine.md
     - 椒盐笔记: apps/salt-note.md
     - 心事卷轴:
       - apps/emo-scroll/index.md
