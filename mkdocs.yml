@@ -73,6 +73,7 @@ nav:
       - 设计: open-source/salt-ui/design.md
       - 文档: open-source/salt-ui/doc.md
       - Util: open-source/salt-ui/util.md
+      - open-source/salt-ui/tdts.md
   - 音频:
     - audio/index.md
     - audio/play-device.md

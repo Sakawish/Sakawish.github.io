@@ -112,3 +112,7 @@ Context.findActivity()
 ```kotlin
 WindowInsets.Companion.safeMain
 ```
+
+## Animate 动画
+
+### animateInfiniteRotationState
