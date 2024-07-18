@@ -66,6 +66,7 @@ nav:
     - 椒盐笔记: apps/salt-note.md
     - 心事卷轴:
       - apps/emo-scroll/index.md
+    - apps/salt-about.md
   - 开源:
     - open-source/index.md
     - SaltUI:

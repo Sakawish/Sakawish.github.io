@@ -6,7 +6,7 @@
     
     ---
 
-    Sakawish 为用户提供优质的软件服务，包括 Salt Player（椒盐音乐）、青盐云听、心事卷轴等等
+    为用户提供优质的软件服务，包括 Salt Player（椒盐音乐）、青盐云听、心事卷轴等等
 
     [了解/下载/支持](apps/index.md)
 
@@ -14,7 +14,7 @@
     
     ---
 
-    Sakawish 开源了 SaltUI、Dso Music 等等开源库
+    开源了 SaltUI、Dso Music 等等开源库
 
     [了解更多](open-source/index.md)
 
@@ -22,7 +22,7 @@
     
     ---
 
-    Sakawish 音频技术
+    音频技术
 
     [了解更多](audio/index.md)
 
@@ -30,7 +30,7 @@
     
     ---
 
-    Sakawish 某些记录
+    某些记录
 
     [了解更多](dev/index.md)
 
@@ -38,7 +38,7 @@
     
     ---
 
-    Sakawish 某些记录
+    某些记录
 
     [了解更多](literature/index.md)
 

@@ -1,5 +1,7 @@
 # Salt Player（椒盐音乐）
 
+[Github](https://github.com/Moriafly/SaltPlayerSource)
+
 你若热爱，我即强大。
 
 数十万用户选择的本地音乐播放器。

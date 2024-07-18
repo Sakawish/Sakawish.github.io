@@ -22,6 +22,14 @@
 
     [介绍](spw/index.md)
 
+-   __Salt About__
+
+    ---
+
+    Salt About
+
+    [介绍](salt-about.md)
+
 -   __心事卷轴__
 
     ---
