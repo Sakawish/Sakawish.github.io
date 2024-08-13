@@ -1,16 +1,21 @@
 # Salt Player（椒盐音乐）
 
-[Github](https://github.com/Moriafly/SaltPlayerSource)
+Salt Player 是一款 Android 平台本地音乐播放器，原名**椒盐音乐**，开发于 2021 年春节，公开发布于当年 4 月的酷安平台，前身为 2020 年的 Dirror Music 项目（闭源，此项目分支 Dso Music 在 Github 上以 GPL3 协议开源）。
 
-你若热爱，我即强大。
-
-数十万用户选择的本地音乐播放器。
+2021 下半年的椒盐音乐 V3 取得了较大成功，软件用户逐步提升，时至今日 Salt Player 服务数十万用户，提供高质量的本地音乐体验。
 
 !!! Quote "Google Play 葡萄牙语用户 Herinaldo Sales 评价"
 
     Melhor reprodutor de todos, não tenho o que reclamar, som, design...tudo perfeito, nunca vi um melhor do que esse, som bem nítido e dá pra curtir mesmo sem colocar o fone pra escutar bem as batidas e o que tem no fundo, simplesmente incrível ❤♓👌
 
     这是最好的播放器，我无可抱怨，音质、设计...一切都完美，我从未见过比这更好的，声音非常清晰，甚至不用戴耳机也能欣赏到节奏和背景音乐，简直令人难以置信 ❤♓👌
+
+
+[Github](https://github.com/Moriafly/SaltPlayerSource)
+
+你若热爱，我即强大。
+
+数十万用户选择的本地音乐播放器。
 
 ## 热力调音 SALT FX V4+
 
